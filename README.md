@@ -1,2 +1,3 @@
 # Linear-Congruential-Method
-Linear Congruential Method for Generating Random Numbers
+
+This study seeks an answer to the rejectability of the Linear Congruential Method by generating random numbers.
